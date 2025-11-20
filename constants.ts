@@ -5,7 +5,7 @@ import { Camera, Users, Calendar, Video } from 'lucide-react';
 // Since we are in a code-gen environment, we use placeholders or generic instructions.
 // User should place their 'owner.jpg' and 'logo.png' in a public folder or import them.
 
-export const OWNER_IMAGE_URL = "/Images/owner.jpg";
+export const OWNER_IMAGE_URL = "/Images/aboutus.heic";
 // Points to the uploaded owner image (Relative to index.html)
 
 export const LOGO_IMAGE_URL = "https://placehold.co/400x150/000000/FF0000?text=NIDHI+STUDIO"; // Placeholder for Logo
