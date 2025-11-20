@@ -3,7 +3,7 @@ import { CATEGORIES } from '../constants';
 
 // Using the uploaded local file path (ChatGPT environment).
 const portfolioData = [
-  { id: 1, category: 'Wedding', type: 'image', url: 'https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop', title: 'Royal Wedding' },
+  { id: 1, category: 'Wedding', type: 'image', url: '/Images/royalwediing.webp', title: 'Royal Wedding' },
   { id: 2, category: 'Portrait', type: 'image', url: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=800&auto=format&fit=crop', title: 'Urban Style' },
   { id: 3, category: 'Event', type: 'image', url: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=800&auto=format&fit=crop', title: 'Concert Night' },
   { id: 4, category: 'Nature', type: 'image', url: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=800&auto=format&fit=crop', title: 'Misty Forest' },
