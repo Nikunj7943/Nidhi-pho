@@ -9,7 +9,7 @@ const portfolioData = [
   { id: 4, category: 'Nature', type: 'image', url: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=800&auto=format&fit=crop', title: 'Misty Forest' },
 
   // Instagram embed (use iframe)
-  { id: 5, category: 'Wedding', type: 'image', url: 'Images/owner.jpg', title: 'The Ring' },
+  { id: 5, category: 'Wedding', type: 'image', url: 'Images/wedding1.heic', title: 'The Ring' },
 
   // Local uploaded image (ChatGPT preview path) — replaced one image with uploaded file path
   { id: 6, category: 'Portrait', type: 'image', url: '/mnt/data/585ee205-f3db-40a4-a11d-06b07bc03146.png', title: 'Nanu Owner Photo' },
