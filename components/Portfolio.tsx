@@ -12,7 +12,7 @@ const portfolioData = [
   { id: 5, category: 'Wedding', type: 'image', url: 'Images/wedding1.heic', title: 'The Ring' },
 
   // Local uploaded image (ChatGPT preview path) — replaced one image with uploaded file path
-  { id: 6, category: 'Portrait', type: 'image', url: '/mnt/data/585ee205-f3db-40a4-a11d-06b07bc03146.png', title: 'Nanu Owner Photo' },
+  { id: 6, category: 'Portrait', type: 'image', url: '/Images/potate.webp', title: 'Lavy' },
 ];
 
 const Portfolio: React.FC = () => {
