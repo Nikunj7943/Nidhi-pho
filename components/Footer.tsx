@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="flex gap-6">
-          <a href="#" className="text-gray-400 hover:text-brand-red transition-colors"><Instagram size={20} /></a>
+          <a href="https://www.instagram.com/nidhi_studio_1417?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-gray-400 hover:text-brand-red transition-colors"><Instagram size={20} /></a>
           <a href="#" className="text-gray-400 hover:text-blue-500 transition-colors"><Facebook size={20} /></a>
           <a href="#" className="text-gray-400 hover:text-sky-400 transition-colors"><Twitter size={20} /></a>
         </div>
