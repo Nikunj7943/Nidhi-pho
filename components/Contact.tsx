@@ -73,7 +73,11 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase font-bold">Email</p>
-                  <a href={`mailto:${CONTACT_EMAIL}`} className="hover:text-brand-red transition-colors">{CONTACT_EMAIL}</a>
+                  {/* <a href={`mailto:${CONTACT_EMAIL}`} className="hover:text-brand-red transition-colors">{CONTACT_EMAIL}</a> */}
+                <a href="mailto:nidhistudio@gmail.com" className="hover:text-brand-red transition-colors">
+  nidhistudio@gmail.com
+</a>
+
                 </div>
               </div>
 
@@ -83,7 +87,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase font-bold">Phone</p>
-                  <p className="hover:text-brand-red transition-colors">+91 98765 43210</p>
+                  <p className="hover:text-brand-red transition-colors">+919328518239</p>
                 </div>
               </div>
 
@@ -93,7 +97,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs text-gray-500 uppercase font-bold">Studio</p>
-                  <p>Nidhi Studio, Main Market, City Center</p>
+                  <p>Near Vrundavan Primary School,Navli-388355 Anand</p>
                 </div>
               </div>
             </div>
